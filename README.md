@@ -1,3 +1,5 @@
+![Sachin Sharma!](https://user-images.githubusercontent.com/59499244/105798499-4e776200-5fb8-11eb-9f66-2e1ced602b49.png)
+
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">A passionate frontend developer from DEI, Agra who also like to explore other computer science fields</h3>
 
