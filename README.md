@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I still don't what I like more Tea or Programming**
 
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg" />][linkedin]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sachin-sharma-976142179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sachin-sharma-976142179" height="30" width="40" /></a>
